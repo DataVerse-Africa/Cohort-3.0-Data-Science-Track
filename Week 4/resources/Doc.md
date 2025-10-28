@@ -1,9 +1,5 @@
 # Week 4: Vision & Foundation - Curated Resources
 
-I've curated a selection of free, accessible resources tailored for your cohort of students working on the Crop Disease Detection System project. These focus on beginner to intermediate levels, emphasizing practical tutorials, videos, and articles. I've prioritized high-quality sources like official documentation, YouTube videos, and educational platforms. For each topic, I've included 4-5 key resources with brief summaries, why they're useful, and direct links. Where visuals enhance understanding (e.g., diagrams for complex concepts), I've noted potential image references.
-
-Resources are organized by day/topic for easy reference. At the end, I've added materials for the self-study and deliverable sections.
-
 ## Monday (Strategist): How AI & CV Improve African Food Security, Healthcare, and Finance
 
 This topic explores real-world applications of AI and computer vision in African contexts, with a focus on agriculture (relevant to your crop disease project), health, and finance. Resources include case studies and reports to inspire strategic thinking.
