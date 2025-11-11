@@ -107,6 +107,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-Week 4/Grapevine_Leaves_Image_Dataset/
-Week 4/Vegetable Images/
+Week_4/Grapevine_Leaves_Image_Dataset/
+Week_4/Vegetable Images/
+Week_4/src/Sign_Language_Detection
+Week_4/src/runs
 my_env/
